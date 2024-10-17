@@ -1,0 +1,8 @@
+{
+  "name": "typescript-frontend",
+  "packageManager": "yarn@3.8.5",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
